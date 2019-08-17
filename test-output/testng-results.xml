@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="41381" started-at="2019-08-10T11:11:14Z" finished-at="2019-08-10T11:11:55Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="41381" started-at="2019-08-10T11:11:14Z" finished-at="2019-08-10T11:11:55Z">
+      <class name="com.vcentry.tnstc.testcases.RegPageTest">
+        <test-method status="PASS" signature="validateRegPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vcentry.tnstc.testcases.RegPageTest@6a5fc7f7]" name="validateRegPage" duration-ms="29973" started-at="2019-08-10T16:41:17Z" data-provider="RegPageTest" finished-at="2019-08-10T16:41:47Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[RegPageTest_DataSet2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Vcentrya]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[High school name?]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Sedan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegPage -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.vcentry.tnstc.testcases.RegPageTest@6a5fc7f7]" name="teardown" is-config="true" duration-ms="1265" started-at="2019-08-10T16:41:47Z" finished-at="2019-08-10T16:41:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateRegPage status=SUCCESS method=RegPageTest.validateRegPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vcentry.tnstc.testcases.RegPageTest@6a5fc7f7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="validateRegPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vcentry.tnstc.testcases.RegPageTest@6a5fc7f7]" name="validateRegPage" duration-ms="2082" started-at="2019-08-10T16:41:48Z" data-provider="RegPageTest" finished-at="2019-08-10T16:41:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[RegPageTest_DataSet3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Vcentryb]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[High school name?]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Sedan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegPage -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.vcentry.tnstc.testcases.RegPageTest@6a5fc7f7]" name="teardown" is-config="true" duration-ms="437" started-at="2019-08-10T16:41:50Z" finished-at="2019-08-10T16:41:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateRegPage status=SUCCESS method=RegPageTest.validateRegPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vcentry.tnstc.testcases.RegPageTest@6a5fc7f7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="validateRegPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vcentry.tnstc.testcases.RegPageTest@6a5fc7f7]" name="validateRegPage" duration-ms="1981" started-at="2019-08-10T16:41:50Z" data-provider="RegPageTest" finished-at="2019-08-10T16:41:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[RegPageTest_DataSet4]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Vcentryc]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[High school name?]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Sedan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegPage -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.vcentry.tnstc.testcases.RegPageTest@6a5fc7f7]" name="teardown" is-config="true" duration-ms="562" started-at="2019-08-10T16:41:52Z" finished-at="2019-08-10T16:41:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateRegPage status=SUCCESS method=RegPageTest.validateRegPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vcentry.tnstc.testcases.RegPageTest@6a5fc7f7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="validateRegPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vcentry.tnstc.testcases.RegPageTest@6a5fc7f7]" name="validateRegPage" duration-ms="2075" started-at="2019-08-10T16:41:53Z" data-provider="RegPageTest" finished-at="2019-08-10T16:41:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[RegPageTest_DataSet5]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Vcentryd]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[High school name?]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Sedan]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateRegPage -->
+        <test-method status="PASS" signature="teardown(org.testng.ITestResult)[pri:0, instance:com.vcentry.tnstc.testcases.RegPageTest@6a5fc7f7]" name="teardown" is-config="true" duration-ms="437" started-at="2019-08-10T16:41:55Z" finished-at="2019-08-10T16:41:55Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=validateRegPage status=SUCCESS method=RegPageTest.validateRegPage(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.vcentry.tnstc.testcases.RegPageTest@6a5fc7f7] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.vcentry.tnstc.testcases.RegPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
